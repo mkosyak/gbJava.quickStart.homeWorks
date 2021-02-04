@@ -1,4 +1,4 @@
-package ru.geekBrains.java_quickStart.homeWorks.lesson_08;
+package ru.geekBrains.java_quickStart.homeWorks.lesson_08.catchTheDrop;
 
 import javax.imageio.ImageIO;
 import javax.swing.*;
